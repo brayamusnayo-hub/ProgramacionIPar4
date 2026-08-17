@@ -1,7 +1,7 @@
 // Materia: Programación I, Paralelo 4
 // Autor: Brayam Usnayo Apaza
 // Carrera: Ingeniería de Sistemas
-// Fecha de Creación: 18/08/2026
+// Fecha de Creación: 10/08/2026
 
 #include <iostream>
 using namespace std;
